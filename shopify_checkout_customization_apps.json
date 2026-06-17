@@ -1,0 +1,209 @@
+{
+  "niche": "checkout-customization",
+  "query": "checkout",
+  "total_apps": 4243,
+  "apps": [
+    {
+      "rank": 1,
+      "name": "SMART Checkout Rules & Upsells",
+      "rating": 5.0,
+      "reviews": 495,
+      "pricing": "Free",
+      "description": "Checkout upsell app, rules & post purchase upsells to grow AOV",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 2,
+      "name": "Shopify Checkout Blocks",
+      "rating": 4.1,
+      "reviews": 188,
+      "pricing": "Free",
+      "description": "Customize your Checkout, Thank you and Order status pages",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 3,
+      "name": "Blockify Checkout Customizer",
+      "rating": 4.9,
+      "reviews": 275,
+      "pricing": "Free plan available",
+      "description": "Checkout rules, checkout customizer and discounts to boost AOV"
+    },
+    {
+      "rank": 4,
+      "name": "Checkout Plus Customizations",
+      "rating": 5.0,
+      "reviews": 101,
+      "pricing": "Free plan available",
+      "description": "Customize Checkout Page & Thank You Page + Upsells, Free Gifts",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 5,
+      "name": "Kedra Checkout Rules",
+      "rating": 4.8,
+      "reviews": 531,
+      "pricing": "Free",
+      "description": "Customize checkout, payment, shipping methods with smart rules",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 6,
+      "name": "BeSure Checkout Rules",
+      "rating": 5.0,
+      "reviews": 193,
+      "pricing": "Free plan available",
+      "description": "Customize checkout behavior with conditional powerful rules",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 7,
+      "name": "Checkout Rules & Discounts",
+      "rating": 5.0,
+      "reviews": 93,
+      "pricing": "Free plan available",
+      "description": "Customize checkout rules to drive sales and reduce risk",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 8,
+      "name": "Qikify Checkout Customizer",
+      "rating": 4.8,
+      "reviews": 70,
+      "pricing": "Free plan available",
+      "description": "Compact checkout tool w/ custom fields, checkout upsell, rules",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 9,
+      "name": "Account & Checkout Blocks",
+      "rating": 5.0,
+      "reviews": 7,
+      "pricing": "Free",
+      "description": "Add trust badges, offers, and custom UI to boost conversion"
+    },
+    {
+      "rank": 10,
+      "name": "Checkout Components",
+      "rating": 5.0,
+      "reviews": 53,
+      "pricing": "Free trial available",
+      "description": "Personalise Checkout; Segment, Upsell, A/B Testing & Content"
+    },
+    {
+      "rank": 11,
+      "name": "Razorpay COD & Magic Checkout",
+      "rating": 3.2,
+      "reviews": 33,
+      "pricing": "Free to install",
+      "description": "Boost conversions & reduce fake orders on Magic Checkout!"
+    },
+    {
+      "rank": 12,
+      "name": "Aftersell Post Purchase Upsell",
+      "rating": 4.8,
+      "reviews": 861,
+      "pricing": "Free plan available",
+      "description": "Lift AOV with 1-Click Checkout Upsells & Thank You Page Offers",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 13,
+      "name": "Express Checkout",
+      "rating": 5.0,
+      "reviews": 6,
+      "pricing": "$5/month",
+      "description": "Built for merchants in South Africa to optimise checkout"
+    },
+    {
+      "rank": 14,
+      "name": "Puco Checkout Rules",
+      "rating": 5.0,
+      "reviews": 52,
+      "pricing": "Free plan available",
+      "description": "All-in-one app to create checkout customization and validation",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 15,
+      "name": "Checkout Links",
+      "rating": 5.0,
+      "reviews": 36,
+      "pricing": "Free trial available",
+      "description": "Direct checkout links — Meta, TikTok ads, DMs, email & gifting"
+    },
+    {
+      "rank": 16,
+      "name": "Payfy: Hide Payment Rules",
+      "rating": 4.6,
+      "reviews": 147,
+      "pricing": "Free plan available",
+      "description": "Checkout customize to reorder, rename & hide payment methods."
+    },
+    {
+      "rank": 17,
+      "name": "Shipzy - Shipping Rules",
+      "rating": 5.0,
+      "reviews": 136,
+      "pricing": "Free plan available",
+      "description": "Control your shipping rates by multiple conditions at checkout"
+    },
+    {
+      "rank": 18,
+      "name": "AOV.ai Post Purchase Upsell",
+      "rating": 4.9,
+      "reviews": 140,
+      "pricing": "Free plan available",
+      "description": "Increase AOV with 1-Click Upsell & Thank you page offers"
+    },
+    {
+      "rank": 19,
+      "name": "Wiz: Checkout Upsell",
+      "rating": 4.9,
+      "reviews": 54,
+      "pricing": "Free trial available",
+      "description": "the All-in-One checkout and post checkout customization tool",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 20,
+      "name": "VL: Checkout Address Validator",
+      "rating": 4.8,
+      "reviews": 48,
+      "pricing": "Free to install",
+      "description": "Address validation via checkout rules & shipping customization"
+    },
+    {
+      "rank": 21,
+      "name": "Bony: Checkout Rules & COD",
+      "rating": 5.0,
+      "reviews": 32,
+      "pricing": "Free plan available",
+      "description": "Customize checkout rules to boost sales and reduce risk"
+    },
+    {
+      "rank": 22,
+      "name": "UpsellPlus Checkout Upsell",
+      "rating": 5.0,
+      "reviews": 137,
+      "pricing": "Free trial available",
+      "description": "Grow AOV with cross sell, post purchase & checkout upsell"
+    },
+    {
+      "rank": 23,
+      "name": "EZ Checkout Controller | Rules",
+      "rating": 4.5,
+      "reviews": 12,
+      "pricing": "Free trial available",
+      "description": "Set checkout rules, minimum order, MOQ, T&C box, or block IP"
+    },
+    {
+      "rank": 24,
+      "name": "Post Purchase Upsell—ReSe",
+      "rating": 4.8,
+      "reviews": 49,
+      "pricing": "Free to install",
+      "description": "Boost AOV by reconverting Thank You Page and Checkout Upsells"
+    }
+  ]
+}

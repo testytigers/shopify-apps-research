@@ -1,0 +1,15 @@
+{"niche": "payment_checkout", "top_apps": [
+  {"name": "Kedra Checkout Rules", "rating": "4.8", "reviews": 531, "pricing": "Free", "description": "Customize checkout, payment, shipping methods with smart rules"},
+  {"name": "SMART Checkout Rules & Upsells", "rating": "5.0", "reviews": 496, "pricing": "Free", "description": "Checkout upsell app, rules & post purchase upsells to grow AOV"},
+  {"name": "MIDA Heatmap & Replay Checkout", "rating": "4.9", "reviews": 479, "pricing": "Free plan available", "description": "AI analytics, recordings & heatmaps to optimize conversions"},
+  {"name": "HidePay: Hide Payment Methods", "rating": "4.8", "reviews": 368, "pricing": "Free plan available", "description": "Hide & customise all payment methods in your checkout"},
+  {"name": "Blockify Checkout Customizer", "rating": "4.9", "reviews": 275, "pricing": "Free plan available", "description": "Checkout rules, checkout customizer and discounts to boost AOV"},
+  {"name": "ETP Sort Hide Payment Methods", "rating": "5.0", "reviews": 280, "pricing": "Free", "description": "Hide, sort, reorder, rename payment methods with payment rules"},
+  {"name": "Shopify Checkout Blocks", "rating": "4.1", "reviews": 188, "pricing": "Free", "description": "Customize your Checkout, Thank you and Order status pages"},
+  {"name": "Kip: Sort Hide Payment Methods", "rating": "4.9", "reviews": 121, "pricing": "Free plan available", "description": "Take full control of payment methods with Kip customizations."},
+  {"name": "SPD Split Payment & Deposit", "rating": "4.9", "reviews": 127, "pricing": "Free plan available", "description": "Accept split/partial payments and deferred payments in store"},
+  {"name": "Checkout Rules & Discounts", "rating": "5.0", "reviews": 93, "pricing": "Free plan available", "description": "Customize checkout rules to drive sales and reduce risk"},
+  {"name": "Scala Payment Method Discount", "rating": "5.0", "reviews": 57, "pricing": "Free", "description": "Offer payment method & prepaid discounts during checkout"},
+  {"name": "Yagi Express Payment Hider", "rating": "5.0", "reviews": 17, "pricing": "Free trial available", "description": "Hide PayPal and other express checkout in checkout and cart"},
+  {"name": "Express Checkout", "rating": "5.0", "reviews": 6, "pricing": "$5/month", "description": "Built for merchants in South Africa to optimise checkout"}
+]}

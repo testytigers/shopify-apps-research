@@ -1,0 +1,207 @@
+{
+  "niche": "discounts-bundles",
+  "query": "discounts & bundles",
+  "total_apps": 1234,
+  "apps": [
+    {
+      "rank": 1,
+      "name": "G: Volume Discounts & Bundles",
+      "rating": 4.9,
+      "reviews": 75,
+      "pricing": "Free",
+      "description": "Boost AOV with Volume Discounts, Quantity Breaks, and Bundles",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 2,
+      "name": "Quantity Discounts - Bundles",
+      "rating": 4.9,
+      "reviews": 64,
+      "pricing": "Free plan available",
+      "description": "Boost AOV with quantity breaks, volume discount, gifts, BOGO",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 3,
+      "name": "Qikify Volume Discounts Bundle",
+      "rating": 5.0,
+      "reviews": 60,
+      "pricing": "Free",
+      "description": "Encourage large purchases w/ volume discounts, quantity breaks",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 4,
+      "name": "Hulk Volume Discount Bundles",
+      "rating": 4.6,
+      "reviews": 627,
+      "pricing": "Free plan available",
+      "description": "Save with volume discount, quantity breaks, BOGO & bundle."
+    },
+    {
+      "rank": 5,
+      "name": "Every Possible Discount",
+      "rating": 4.4,
+      "reviews": 35,
+      "pricing": "Free trial available",
+      "description": "Increase AOV with Automatic Discounts: Bundled, Tiered & More."
+    },
+    {
+      "rank": 6,
+      "name": "Magic Bundles Quantity Breaks",
+      "rating": 5.0,
+      "reviews": 9,
+      "pricing": "Free",
+      "description": "Boost AOV with quantity breaks, volume discounts & bundles"
+    },
+    {
+      "rank": 7,
+      "name": "Bun Bundles Volume Discounts",
+      "rating": 5.0,
+      "reviews": 17,
+      "pricing": "Free trial available",
+      "description": "Volume discounts, bundles & add-ons — native to your store"
+    },
+    {
+      "rank": 8,
+      "name": "MBC Mix and Match Bundles App",
+      "rating": 4.9,
+      "reviews": 362,
+      "pricing": "Free to install",
+      "description": "Create buy one get one & Buy X Get Y bundle products easily"
+    },
+    {
+      "rank": 9,
+      "name": "Moon Bundles CartDrawer Upsell",
+      "rating": 5.0,
+      "reviews": 577,
+      "pricing": "Free plan available",
+      "description": "Upsell app, free gifts, post purchase, BOGO, quantity breaks"
+    },
+    {
+      "rank": 10,
+      "name": "EB | Easy Bundle Builder, BYOB",
+      "rating": 4.9,
+      "reviews": 961,
+      "pricing": "Free to install",
+      "description": "Bundle builder for Mix and Match or Build a box bundles"
+    },
+    {
+      "rank": 11,
+      "name": "Easy Bundles Quantity Breaks",
+      "rating": 5.0,
+      "reviews": 256,
+      "pricing": "Free to install",
+      "description": "bundle builder, bundle products, offer, bundler, bundle app."
+    },
+    {
+      "rank": 12,
+      "name": "Pro Upsells - Bundles & FBT",
+      "rating": 5.0,
+      "reviews": 3,
+      "pricing": "Free",
+      "description": "Lift AOV with Upsells - Volume Discounts & Bundles."
+    },
+    {
+      "rank": 13,
+      "name": "Rapi Bundles Volume Discounts",
+      "rating": 5.0,
+      "reviews": 1265,
+      "pricing": "Free to install",
+      "description": "Boost AOV with Bundle, Volume discounts, BOGO Deals & Upsells",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 14,
+      "name": "GoKwik Cart Drawer & Upsell",
+      "rating": 4.7,
+      "reviews": 38,
+      "pricing": "Free trial available",
+      "description": "Increase AOV with cart upsell, progress bar & fraud prevention"
+    },
+    {
+      "rank": 15,
+      "name": "Volume Discounts & Bundles",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free plan available",
+      "description": "Flexible quantity discounts & bundles for higher order values"
+    },
+    {
+      "rank": 16,
+      "name": "Function Junction Promos",
+      "rating": 5.0,
+      "reviews": 11,
+      "pricing": "Free to install",
+      "description": "Build advanced Functions for discounts, bundles, promos & more",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 17,
+      "name": "Volume & Gift Discounts – Atom",
+      "rating": 5.0,
+      "reviews": 4,
+      "pricing": "Free plan available",
+      "description": "Easily create advanced discounts & bundles that boost sales!"
+    },
+    {
+      "rank": 18,
+      "name": "BulkPerk Bulk Quantity Breaks",
+      "rating": 5.0,
+      "reviews": 5,
+      "pricing": "Free plan available",
+      "description": "Increase AOV with Volume discounts, Bundles & Buy X get Y!"
+    },
+    {
+      "rank": 19,
+      "name": "QX - Quantity Discount Price",
+      "rating": 4.8,
+      "reviews": 52,
+      "pricing": "Free plan available",
+      "description": "Increase AOV with Buy More Save More and Tier Discount App",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 20,
+      "name": "Koala Bundles Volume Discounts",
+      "rating": 4.9,
+      "reviews": 725,
+      "pricing": "Free to install",
+      "description": "Set up Quantity Breaks, Volume Discounts and Product Bundles!",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 21,
+      "name": "DB Volume Discount Bundles",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free",
+      "description": "Encourage larger orders with automated quantity-based rewards"
+    },
+    {
+      "rank": 22,
+      "name": "Functions Creator & Discount",
+      "rating": 5.0,
+      "reviews": 42,
+      "pricing": "Free to install",
+      "description": "Create unlimited discount functions, shipping, payment & rules",
+      "built_for_shopify": true
+    },
+    {
+      "rank": 23,
+      "name": "Qikify Slide Cart Drawer",
+      "rating": 4.9,
+      "reviews": 445,
+      "pricing": "Free plan available",
+      "description": "Add slide cart drawer, sticky cart, progress bar, cart upsell"
+    },
+    {
+      "rank": 24,
+      "name": "Yuko Volume Discount Bundles",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free",
+      "description": "Lift AOV with bulk discounts, bundles, volume discounts"
+    }
+  ]
+}

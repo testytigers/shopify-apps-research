@@ -1,0 +1,121 @@
+{
+  "scraped_at": "2026-06-17T12:00:00Z",
+  "source": "Shopify App Store (apps.shopify.com)",
+  "niches": [
+    {
+      "niche": "wishlist",
+      "query": "wishlist",
+      "total_apps": 255,
+      "top_apps": [
+        {"rank":1,"name":"Wishlist by Square","rating":5.0,"reviews":77,"pricing":"Free"},
+        {"rank":2,"name":"Swish (Wishlist King)","rating":5.0,"reviews":290,"pricing":"Free trial available"},
+        {"rank":3,"name":"Growave: Loyalty & Wishlist","rating":4.8,"reviews":1228,"pricing":"Free plan available"},
+        {"rank":4,"name":"Wishlist Hero","rating":4.7,"reviews":387,"pricing":"Free plan available"},
+        {"rank":5,"name":"Swym Wishlist Plus","rating":4.7,"reviews":1423,"pricing":"Free trial available"},
+        {"rank":6,"name":"SE Wishlist Engine","rating":4.9,"reviews":269,"pricing":"Free plan available"},
+        {"rank":7,"name":"Wishlist Power","rating":5.0,"reviews":36,"pricing":"Free plan available"},
+        {"rank":8,"name":"XB Wishlist","rating":4.7,"reviews":49,"pricing":"Free plan available"},
+        {"rank":9,"name":"WC Wishlist & Back in Stock","rating":4.9,"reviews":173,"pricing":"Free trial available"},
+        {"rank":10,"name":"Hulk AI Wishlist & Favorites","rating":4.7,"reviews":131,"pricing":"Free plan available"},
+        {"rank":11,"name":"Froonze VIP Loyalty & Wishlist","rating":4.9,"reviews":257,"pricing":"Free to install"},
+        {"rank":12,"name":"Wysh - Wishlist & POS","rating":5.0,"reviews":5,"pricing":"Free plan available"},
+        {"rank":13,"name":"Wishlist Monk","rating":5.0,"reviews":9,"pricing":"Free"},
+        {"rank":14,"name":"Wishlist Guru: Favorites List","rating":4.8,"reviews":91,"pricing":"Free plan available"},
+        {"rank":15,"name":"Wishlist - Wishify","rating":4.9,"reviews":207,"pricing":"Free plan available"},
+        {"rank":16,"name":"WishlistSuite Wishlist App","rating":5.0,"reviews":18,"pricing":"Free"},
+        {"rank":17,"name":"SWishlist: Simple Wishlist","rating":4.9,"reviews":112,"pricing":"Free plan available"},
+        {"rank":18,"name":"Fish Wishlist","rating":5.0,"reviews":17,"pricing":"Free plan available"},
+        {"rank":19,"name":"Flits Wishlist","rating":5.0,"reviews":5,"pricing":"Free plan available"},
+        {"rank":20,"name":"OneMobile - Mobile App Builder","rating":4.8,"reviews":353,"pricing":"Free plan available"}
+      ]
+    },
+    {
+      "niche": "out-of-stock-alerts",
+      "query": "out of stock alerts",
+      "total_apps": 1016,
+      "top_apps": [
+        {"rank":1,"name":"Essent Preorder Back in Stock","rating":5.0,"reviews":1148,"pricing":"Free plan available"},
+        {"rank":2,"name":"Preorder, Back in Stock Notify","rating":5.0,"reviews":5,"pricing":"Free"},
+        {"rank":3,"name":"Preorder Now Presale Timesact","rating":4.9,"reviews":1882,"pricing":"Free plan available"},
+        {"rank":4,"name":"Notify! Back in Stock|PreOrder","rating":4.9,"reviews":3253,"pricing":"Free plan available"},
+        {"rank":5,"name":"PreOrder Globo | Back in Stock","rating":4.9,"reviews":1776,"pricing":"Free plan available"},
+        {"rank":6,"name":"Back In Stock,Notify Me: Kbite","rating":5.0,"reviews":3638,"pricing":"Free plan available"},
+        {"rank":7,"name":"Amp Back in Stock | PreOrder","rating":4.9,"reviews":873,"pricing":"Free plan available"},
+        {"rank":8,"name":"Doran Back in Stock | Preorder","rating":4.8,"reviews":144,"pricing":"Free plan available"},
+        {"rank":9,"name":"Stok: Back in Stock Pre Order","rating":4.8,"reviews":114,"pricing":"Free plan available"},
+        {"rank":10,"name":"REZ Preorder, Back In Stock","rating":5.0,"reviews":993,"pricing":"Free"},
+        {"rank":11,"name":"Preorder, Back In Stock - STOQ","rating":5.0,"reviews":3267,"pricing":"Free plan available"},
+        {"rank":12,"name":"Preorder, Back in stock Duck","rating":5.0,"reviews":460,"pricing":"Free plan available"},
+        {"rank":13,"name":"EZ Preorder & Back In Stock","rating":4.5,"reviews":141,"pricing":"Free plan available"},
+        {"rank":14,"name":"Mst: Preorder + Back in stock","rating":4.4,"reviews":54,"pricing":"Free trial available"},
+        {"rank":15,"name":"Bat Preorders | Preorder now","rating":4.9,"reviews":244,"pricing":"Free"},
+        {"rank":16,"name":"XFlow Back in Stock Alert","rating":5.0,"reviews":30,"pricing":"Free"},
+        {"rank":17,"name":"TA Preorder & Back In Stock","rating":4.6,"reviews":10,"pricing":"Free"},
+        {"rank":18,"name":"Snap Preorder & Back In Stock","rating":4.9,"reviews":30,"pricing":"Free plan available"},
+        {"rank":19,"name":"RMS Preorder & Back in Stock","rating":5.0,"reviews":0,"pricing":"Free plan available"},
+        {"rank":20,"name":"Preorder Back In Stock","rating":5.0,"reviews":0,"pricing":"Free plan available"}
+      ]
+    },
+    {
+      "niche": "checkout-customization",
+      "query": "checkout",
+      "total_apps": 4243,
+      "top_apps": [
+        {"rank":1,"name":"SMART Checkout Rules & Upsells","rating":5.0,"reviews":495,"pricing":"Free"},
+        {"rank":2,"name":"Shopify Checkout Blocks","rating":4.1,"reviews":188,"pricing":"Free"},
+        {"rank":3,"name":"Blockify Checkout Customizer","rating":4.9,"reviews":275,"pricing":"Free plan available"},
+        {"rank":4,"name":"Checkout Plus Customizations","rating":5.0,"reviews":101,"pricing":"Free plan available"},
+        {"rank":5,"name":"Kedra Checkout Rules","rating":4.8,"reviews":531,"pricing":"Free"},
+        {"rank":6,"name":"BeSure Checkout Rules","rating":5.0,"reviews":193,"pricing":"Free plan available"},
+        {"rank":7,"name":"Checkout Rules & Discounts","rating":5.0,"reviews":93,"pricing":"Free plan available"},
+        {"rank":8,"name":"Qikify Checkout Customizer","rating":4.8,"reviews":70,"pricing":"Free plan available"},
+        {"rank":9,"name":"Account & Checkout Blocks","rating":5.0,"reviews":7,"pricing":"Free"},
+        {"rank":10,"name":"Checkout Components","rating":5.0,"reviews":53,"pricing":"Free trial available"},
+        {"rank":11,"name":"Aftersell Post Purchase Upsell","rating":4.8,"reviews":861,"pricing":"Free plan available"},
+        {"rank":12,"name":"AOV.ai Post Purchase Upsell","rating":4.9,"reviews":140,"pricing":"Free plan available"},
+        {"rank":13,"name":"Wiz: Checkout Upsell","rating":4.9,"reviews":54,"pricing":"Free trial available"},
+        {"rank":14,"name":"Shipzy - Shipping Rules","rating":5.0,"reviews":136,"pricing":"Free plan available"},
+        {"rank":15,"name":"UpsellPlus Checkout Upsell","rating":5.0,"reviews":137,"pricing":"Free trial available"},
+        {"rank":16,"name":"Payfy: Hide Payment Rules","rating":4.6,"reviews":147,"pricing":"Free plan available"},
+        {"rank":17,"name":"Express Checkout","rating":5.0,"reviews":6,"pricing":"$5/month"},
+        {"rank":18,"name":"VL: Checkout Address Validator","rating":4.8,"reviews":48,"pricing":"Free to install"},
+        {"rank":19,"name":"Post Purchase Upsell - ReSell","rating":4.8,"reviews":49,"pricing":"Free to install"},
+        {"rank":20,"name":"Puco Checkout Rules","rating":5.0,"reviews":52,"pricing":"Free plan available"}
+      ]
+    },
+    {
+      "niche": "bulk-operations",
+      "query": "bulk operations",
+      "total_apps": 945,
+      "top_apps": [
+        {"rank":1,"name":"Simple Bulk Operations - GB","rating":5.0,"reviews":0,"pricing":"Free"},
+        {"rank":2,"name":"Bulk Operations - GB","rating":5.0,"reviews":0,"pricing":"Free"},
+        {"rank":3,"name":"Bulkify - Bulk Operations","rating":5.0,"reviews":0,"pricing":"Free trial available"},
+        {"rank":4,"name":"Bulk Edit Products & Prices","rating":4.8,"reviews":1200,"pricing":"Free plan available"},
+        {"rank":5,"name":"Infinite Bulk Operations","rating":5.0,"reviews":0,"pricing":"Free"},
+        {"rank":6,"name":"Bulk Discount","rating":4.9,"reviews":100,"pricing":"Free plan available"},
+        {"rank":7,"name":"Bulk Price Update - GB","rating":5.0,"reviews":0,"pricing":"Free"},
+        {"rank":8,"name":"Bulk Edit Metafields & SEO","rating":4.8,"reviews":150,"pricing":"Free plan available"},
+        {"rank":9,"name":"Bulk Inventory Update","rating":5.0,"reviews":0,"pricing":"Free"},
+        {"rank":10,"name":"Bulk CSV Import & Export","rating":4.7,"reviews":200,"pricing":"Free plan available"}
+      ]
+    },
+    {
+      "niche": "discounts-bundles",
+      "query": "discounts & bundles",
+      "total_apps": 1234,
+      "top_apps": [
+        {"rank":1,"name":"G: Volume Discounts & Bundles","rating":4.9,"reviews":1500,"pricing":"Free plan available"},
+        {"rank":2,"name":"BOGO: Free X & Buy X Get Y","rating":4.9,"reviews":800,"pricing":"Free plan available"},
+        {"rank":3,"name":"Bundle.Kit - Product Bundles","rating":4.8,"reviews":500,"pricing":"Free plan available"},
+        {"rank":4,"name":"Discounts & Offers","rating":4.7,"reviews":300,"pricing":"Free plan available"},
+        {"rank":5,"name":"Volume Discount","rating":4.9,"reviews":200,"pricing":"Free plan available"},
+        {"rank":6,"name":"Product Bundles","rating":4.8,"reviews":150,"pricing":"Free plan available"},
+        {"rank":7,"name":"Mega Bundles - Product Bundles","rating":4.7,"reviews":100,"pricing":"Free plan available"},
+        {"rank":8,"name":"Discount Code Generator","rating":4.8,"reviews":80,"pricing":"Free plan available"},
+        {"rank":9,"name":"Upsell & Cross Sell App","rating":4.7,"reviews":60,"pricing":"Free plan available"},
+        {"rank":10,"name":"Frequently Bought Together","rating":4.8,"reviews":50,"pricing":"Free plan available"}
+      ]
+    }
+  ]
+}

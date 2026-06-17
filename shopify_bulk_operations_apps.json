@@ -1,0 +1,199 @@
+{
+  "niche": "bulk-operations",
+  "query": "bulk operations",
+  "total_apps": 945,
+  "apps": [
+    {
+      "rank": 1,
+      "name": "Simple Bulk Operations - GB",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free plan available",
+      "description": "Bulk delete products and update inventory with simple CSVs"
+    },
+    {
+      "rank": 2,
+      "name": "Courierify: Pakistani Couriers",
+      "rating": 5.0,
+      "reviews": 9,
+      "pricing": "Free",
+      "description": "Automate courier bookings & tracking for Pakistan's Couriers"
+    },
+    {
+      "rank": 3,
+      "name": "Bulk Image Editor & Optimizer",
+      "rating": 4.6,
+      "reviews": 25,
+      "pricing": "Free plan available",
+      "description": "Manage hundreds of product photos in minutes, not hours."
+    },
+    {
+      "rank": 4,
+      "name": "MP Google Shopping Feed",
+      "rating": 5.0,
+      "reviews": 12,
+      "pricing": "Free",
+      "description": "Create, sync & optimize Google Shopping product feeds"
+    },
+    {
+      "rank": 5,
+      "name": "Bulk AI - Smart Product Editor",
+      "rating": 4.8,
+      "reviews": 20,
+      "pricing": "Free plan available",
+      "description": "AI Bulk edit products & metafields with preview & undo"
+    },
+    {
+      "rank": 6,
+      "name": "File Manager - Custom Folders",
+      "rating": 3.2,
+      "reviews": 9,
+      "pricing": "Free plan available",
+      "description": "Organize files in custom folders and find everything faster"
+    },
+    {
+      "rank": 7,
+      "name": "Auction Pro",
+      "rating": 4.9,
+      "reviews": 16,
+      "pricing": "Free trial available",
+      "description": "Increase sales and attract more customers with auctions"
+    },
+    {
+      "rank": 8,
+      "name": "CedCommerce Walmart Canada",
+      "rating": 4.6,
+      "reviews": 91,
+      "pricing": "Free trial available",
+      "description": "Manage Listings, Products, and Orders on Walmart Canada"
+    },
+    {
+      "rank": 9,
+      "name": "Buuulkify",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free plan available",
+      "description": "Update hundreds of products at once with bulk operations & CSV"
+    },
+    {
+      "rank": 10,
+      "name": "Cutout bulk background remover",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free to install",
+      "description": "Remove background, add shadow & auto create pro photos in bulk"
+    },
+    {
+      "rank": 11,
+      "name": "MatrixLab — Export and Import",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free",
+      "description": "Simplify Data Migration, Bulk Import, and Export Effortlessly"
+    },
+    {
+      "rank": 12,
+      "name": "Batchwise: Bulk Edit Data",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free trial available",
+      "description": "Update metafields, tags & collections in bulk"
+    },
+    {
+      "rank": 13,
+      "name": "3D AI Generator: Photo to 3D",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free trial available",
+      "description": "Generate professional 3D models from a single image in 3 mins"
+    },
+    {
+      "rank": 14,
+      "name": "PickMaster",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free",
+      "description": "Intelligent picking lists with real-time inventory visibility"
+    },
+    {
+      "rank": 15,
+      "name": "SpurIT Bulk Products Editor",
+      "rating": 4.0,
+      "reviews": 13,
+      "pricing": "Free plan available",
+      "description": "Streamline your inventory management with product bulk edits"
+    },
+    {
+      "rank": 16,
+      "name": "Exportify",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free plan available",
+      "description": "Seamless bulk import & export for orders, products & more"
+    },
+    {
+      "rank": 17,
+      "name": "Generate images with AI",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free to install",
+      "description": "Generate AI product image variations with custom prompts"
+    },
+    {
+      "rank": 18,
+      "name": "SML Bulk Order Cleaner Manager",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free plan available",
+      "description": "Bulk Order Cleaner will help merchant to delete their orders."
+    },
+    {
+      "rank": 19,
+      "name": "AutoNotify - Restock Alert",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free",
+      "description": "Notify customers instantly when products are back in stock."
+    },
+    {
+      "rank": 20,
+      "name": "ShopFlow",
+      "rating": 5.0,
+      "reviews": 0,
+      "pricing": "Free trial available",
+      "description": "Excel addin to query and update your store"
+    },
+    {
+      "rank": 21,
+      "name": "Discounty: Bulk Discount Sales",
+      "rating": 4.9,
+      "reviews": 1154,
+      "pricing": "Free plan available",
+      "description": "Boost sale with volume discount, Buy X Get Y and free shipping"
+    },
+    {
+      "rank": 22,
+      "name": "Ablestar Bulk Product Editor",
+      "rating": 4.9,
+      "reviews": 812,
+      "pricing": "Free plan available",
+      "description": "Bulk edit products & metafields with preview, schedule & undo"
+    },
+    {
+      "rank": 23,
+      "name": "Metafileds+",
+      "rating": 5.0,
+      "reviews": 1,
+      "pricing": "$29/month",
+      "description": "Powerful bulk metafield and tag management app"
+    },
+    {
+      "rank": 24,
+      "name": "Discount Mixer: Bulk Discounts",
+      "rating": 5.0,
+      "reviews": 224,
+      "pricing": "Free plan available",
+      "description": "Boost sales via volume discount, buy X get Y, discount code"
+    }
+  ]
+}
