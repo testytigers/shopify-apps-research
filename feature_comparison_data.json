@@ -1,0 +1,3951 @@
+{
+  "blog_seo_editor": {
+    "apps": [
+      {
+        "name": "SEOLab: All in #1 SEO \u2014 AI SEO",
+        "rating": "4.9",
+        "reviews": 2079,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI SEO Optimizer, AEO, Alt Text, Image Optimizer & Speed Boost"
+      },
+      {
+        "name": "SEOWILL: AI SEO & AI Blog Post",
+        "rating": "4.8",
+        "reviews": 1657,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "faq",
+          "blog"
+        ],
+        "description": "SEOAnt, SEO Blog, Image Optimizer, SEO Optimizer, Alt text, AEO"
+      },
+      {
+        "name": "StoreSEO: AI SEO Blog & Image",
+        "rating": "4.9",
+        "reviews": 677,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI SEO Optimizer & SEO Booster to Improve SEO, AEO & GEO Rank"
+      },
+      {
+        "name": "Tapita SEO AI Blog Builder",
+        "rating": "5.0",
+        "reviews": 447,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Boost rankings with AI blog post generation & AI SEO Optimizer"
+      },
+      {
+        "name": "Essential AI SEO: AI Blog Post",
+        "rating": "5.0",
+        "reviews": 406,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Lift SEO With Auto Blog Writer & AI SEO Optimizer"
+      },
+      {
+        "name": "Bloggle: SEO Blog Builder",
+        "rating": "4.8",
+        "reviews": 330,
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "faq",
+          "blog"
+        ],
+        "description": "Design high-converting blog posts. Boost sales & SEO traffic."
+      },
+      {
+        "name": "AI Blog Agent | SEO Auto Blog",
+        "rating": "4.8",
+        "reviews": 186,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Drive Traffic With AI Blog Writer & Fully Automated SEO Blog"
+      },
+      {
+        "name": "Auto Blogs Agent AI Blog Posts",
+        "rating": "4.6",
+        "reviews": 115,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI writes and publishes SEO blog posts on your schedule."
+      },
+      {
+        "name": "Recipe Kit \u2011 Blog Post Recipes",
+        "rating": "4.8",
+        "reviews": 89,
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "faq",
+          "blog",
+          "social"
+        ],
+        "description": "Shoppable recipe cards with SEO schema, analytics & nutrition"
+      },
+      {
+        "name": "Jolt: AI SEO Blog & Image",
+        "rating": "4.5",
+        "reviews": 72,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory"
+        ],
+        "description": "Improve SEO with automated blog & image content creation"
+      },
+      {
+        "name": "SEO Blog Writer",
+        "rating": "4.2",
+        "reviews": 31,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "blog"
+        ],
+        "description": "Create, rank, and sell in one place - all-in-one blog editor"
+      },
+      {
+        "name": "SEO Auto Pilot Backlinks Posts",
+        "rating": "5.0",
+        "reviews": 16,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "reviews",
+          "checkout"
+        ],
+        "description": "Build Trusted Backlinks through Merchants Collaborations"
+      },
+      {
+        "name": "SEA Post Purchase Survey Quiz",
+        "rating": "4.9",
+        "reviews": 177,
+        "pricing": "Free plan available",
+        "features": [
+          "upsell",
+          "blog"
+        ],
+        "description": "Post Purchase Survey for Attribution & Quiz for Recommendation"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "faq",
+      "inventory",
+      "loyalty",
+      "reviews",
+      "seo",
+      "social",
+      "translate",
+      "upsell"
+    ]
+  },
+  "currency_translation": {
+    "apps": [
+      {
+        "name": "Transcy: AI Language Translate",
+        "rating": "4.4",
+        "reviews": 2464,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "inventory"
+        ],
+        "description": "Auto-translate & switch currency by location. Sell globally."
+      },
+      {
+        "name": "Hextom AI Translate & Currency",
+        "rating": "4.7",
+        "reviews": 1174,
+        "pricing": "Free plan available",
+        "features": [
+          "translate"
+        ],
+        "description": "Translate with GPT, Claude, Gemini, etc and currency converter"
+      },
+      {
+        "name": "T Lab \u2011 AI Language Translate",
+        "rating": "4.9",
+        "reviews": 940,
+        "pricing": "Free to install",
+        "features": [
+          "translate"
+        ],
+        "description": "Translate your store into multiple languages to sell globally."
+      },
+      {
+        "name": "Transtore \u2011 Language Translate",
+        "rating": "4.6",
+        "reviews": 777,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Go global with advanced GPT AI translate & currency converter"
+      },
+      {
+        "name": "Nova: Multi Currency Converter",
+        "rating": "4.9",
+        "reviews": 730,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "inventory"
+        ],
+        "description": "Location based customizable automatic currency convertor"
+      },
+      {
+        "name": "Translate store \u2011 GTranslate",
+        "rating": "4.7",
+        "reviews": 664,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "social"
+        ],
+        "description": "Translate your shop and apps to sell globally"
+      },
+      {
+        "name": "Langwill\uff1aAI Language Translate",
+        "rating": "4.6",
+        "reviews": 606,
+        "pricing": "Free plan available",
+        "features": [
+          "translate"
+        ],
+        "description": "Translate store into multi language & currency to go global."
+      },
+      {
+        "name": "LangShop AI Language Translate",
+        "rating": "4.5",
+        "reviews": 453,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Translate language with Open AI, DeepL and convert currency."
+      },
+      {
+        "name": "WB: Multi Currency Converter",
+        "rating": "4.7",
+        "reviews": 122,
+        "pricing": "Free plan available",
+        "features": [
+          "translate"
+        ],
+        "description": "Connect multiple stores and redirect customers by location"
+      },
+      {
+        "name": "EA \u2022 Auto Language Translate",
+        "rating": "4.9",
+        "reviews": 95,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "inventory"
+        ],
+        "description": "Translate store & apps automatically with Google Translate"
+      },
+      {
+        "name": "Hoppy Multi Currency Converter",
+        "rating": "4.8",
+        "reviews": 79,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "inventory"
+        ],
+        "description": "Geolocation based auto currency switcher to show local prices"
+      },
+      {
+        "name": "CVC \u2011 Multi Currency Converter",
+        "rating": "4.5",
+        "reviews": 142,
+        "pricing": "Free",
+        "features": [
+          "translate"
+        ],
+        "description": "Easy global sales with currency switcher & language translate"
+      },
+      {
+        "name": "Lokalize AI Language Translate",
+        "rating": "5.0",
+        "reviews": 9,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI translator with GPT, DeepL, DeepSeek etc to sell globally"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "faq",
+      "inventory",
+      "loyalty",
+      "reviews",
+      "seo",
+      "social",
+      "translate",
+      "upsell"
+    ]
+  },
+  "discounts_bundles": {
+    "apps": [
+      {
+        "name": "MBC Mix and Match Bundles App",
+        "rating": "4.9",
+        "reviews": 362,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Create buy one get one & Buy X Get Y bundle products easily"
+      },
+      {
+        "name": "Moon Bundles CartDrawer Upsell",
+        "rating": "5.0",
+        "reviews": 577,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "blog",
+          "checkout"
+        ],
+        "description": "Upsell app, free gifts, post purchase, BOGO, quantity breaks"
+      },
+      {
+        "name": "SMART Bundles Volume Discounts",
+        "rating": "5.0",
+        "reviews": 172,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Boost AOV with a discount bundler: BOGO, Volume, Tiered & Gift"
+      },
+      {
+        "name": "Hoppy Bundle Offer, BOGO, BYOB",
+        "rating": "4.9",
+        "reviews": 119,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell"
+        ],
+        "description": "Boost AOV with Build your own bundle, Free Gift, buy X get Y"
+      },
+      {
+        "name": "Rapi Bundles Volume Discounts",
+        "rating": "5.0",
+        "reviews": 1266,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout",
+          "popup"
+        ],
+        "description": "Boost AOV with Bundle, Volume discounts, BOGO Deals & Upsells"
+      },
+      {
+        "name": "Discounty: Bulk Discount Sales",
+        "rating": "4.9",
+        "reviews": 1154,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "shipping",
+          "checkout",
+          "popup"
+        ],
+        "description": "Boost sale with volume discount, Buy X Get Y and free shipping"
+      },
+      {
+        "name": "Quantity Discounts \u2011 Bundles",
+        "rating": "4.9",
+        "reviews": 64,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Boost AOV with quantity breaks, volume discount, gifts, BOGO"
+      },
+      {
+        "name": "Unlimited Bundles & Discounts",
+        "rating": "4.9",
+        "reviews": 679,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "popup"
+        ],
+        "description": "Bundle products together with discounts to boost your sales!"
+      },
+      {
+        "name": "G: Volume Discounts & Bundles",
+        "rating": "4.9",
+        "reviews": 76,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Boost AOV with Volume Discounts, Quantity Breaks, and Bundles"
+      },
+      {
+        "name": "Qikify Volume Discounts Bundle",
+        "rating": "5.0",
+        "reviews": 60,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Encourage large purchases w/ volume discounts, quantity breaks"
+      },
+      {
+        "name": "Koala Bundles Volume Discounts",
+        "rating": "4.9",
+        "reviews": 726,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "popup"
+        ],
+        "description": "Set up Quantity Breaks, Volume Discounts and Product Bundles!"
+      },
+      {
+        "name": "Offerly: Make An Offer Button!",
+        "rating": "4.8",
+        "reviews": 74,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "upsell"
+        ],
+        "description": "Unlock Revenue with Make An Offer & Flexible Prices by offers"
+      },
+      {
+        "name": "Panda Bundles Volume Discounts",
+        "rating": "4.8",
+        "reviews": 152,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout",
+          "popup"
+        ],
+        "description": "Setup quantity breaks, bundles, BOGO, discounts upsells & more"
+      },
+      {
+        "name": "Discount Mixer: Bulk Discounts",
+        "rating": "5.0",
+        "reviews": 224,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Boost sales via volume discount, buy X get Y, discount code"
+      },
+      {
+        "name": "AOV.ai Bundles Upsell",
+        "rating": "5.0",
+        "reviews": 1497,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Set up Bundle Builder, Bundle Offers & Volume Discounts"
+      },
+      {
+        "name": "EZ Bundles & Volume Discounts",
+        "rating": "4.7",
+        "reviews": 16,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "popup"
+        ],
+        "description": "Increase AOV with product bundle, volume discounts, free gift!"
+      },
+      {
+        "name": "Aris Bundles Volume Discounts",
+        "rating": "4.8",
+        "reviews": 71,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "shipping"
+        ],
+        "description": "Boost sales & AOV with strategic Bundles and quantity breaks"
+      },
+      {
+        "name": "Hulk Volume Discount Bundles",
+        "rating": "4.6",
+        "reviews": 627,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "wishlist",
+          "popup"
+        ],
+        "description": "Save with volume discount, quantity breaks, BOGO & bundle."
+      },
+      {
+        "name": "AppHero: Free Gifts BOGO Offer",
+        "rating": "5.0",
+        "reviews": 267,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "discounts",
+          "inventory"
+        ],
+        "description": "Auto-add free gifts with purchase: GWP, BOGO, and Buy X Get Y"
+      },
+      {
+        "name": "DiscountOS \u2011 Market Discount",
+        "rating": "5.0",
+        "reviews": 11,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "discounts",
+          "inventory",
+          "popup"
+        ],
+        "description": "Create any automatic and code discount you can imagine"
+      },
+      {
+        "name": "Appstle\u2120 Bundles & Upsells",
+        "rating": "5.0",
+        "reviews": 921,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout",
+          "popup"
+        ],
+        "description": "Maximize AOV with bundles, volume discount, upsells & BOGO"
+      },
+      {
+        "name": "Amp Bundles | Volume Discounts",
+        "rating": "5.0",
+        "reviews": 23,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Boost sales & AOV with bundles, volume discounts & offers"
+      },
+      {
+        "name": "Kaching Bundles App & Upsells",
+        "rating": "5.0",
+        "reviews": 4557,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "checkout"
+        ],
+        "description": "Boost AOV with quantity breaks, product bundles & upsell app"
+      },
+      {
+        "name": "Bun Bundles Volume Discounts",
+        "rating": "5.0",
+        "reviews": 17,
+        "pricing": "Free trial available",
+        "features": [
+          "discounts",
+          "upsell",
+          "popup"
+        ],
+        "description": "Volume discounts, bundles & add-ons \u2014 native to your store"
+      }
+    ],
+    "features": [
+      "blog",
+      "checkout",
+      "discounts",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "shipping",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "email_marketing": {
+    "apps": [
+      {
+        "name": "Klaviyo: Email Marketing & SMS",
+        "rating": "4.7",
+        "reviews": 2881,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Email marketing, SMS, & WhatsApp that turn messages into sales"
+      },
+      {
+        "name": "Omnisend Email Marketing & SMS",
+        "rating": "4.8",
+        "reviews": 2962,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Drive sales with email marketing, newsletters, SMS, and popups"
+      },
+      {
+        "name": "Mailchimp Email SMS Marketing",
+        "rating": "4.8",
+        "reviews": 1281,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Drive sales with email marketing, SMS, forms, and automation"
+      },
+      {
+        "name": "SendWILL Popup Email Marketing",
+        "rating": "4.9",
+        "reviews": 7101,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Send newsletters and grow sign ups with email popup windows"
+      },
+      {
+        "name": "Convertway: WhatsApp, SMS, RCS",
+        "rating": "4.5",
+        "reviews": 238,
+        "pricing": "Free trial available",
+        "features": [
+          "email",
+          "upsell",
+          "chat",
+          "popup"
+        ],
+        "description": "Boost cart recovery, sales & engage customers via WhatsApp/SMS"
+      },
+      {
+        "name": "1CP: Email Popups & Spin Wheel",
+        "rating": "4.9",
+        "reviews": 217,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "discounts",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Use email pop ups, SMS & discount pop ups for email sign ups"
+      },
+      {
+        "name": "AWeber Email by Combidesk",
+        "rating": "4.5",
+        "reviews": 23,
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Easy To Use Email Marketing Automation Tool With Popup Forms"
+      },
+      {
+        "name": "Sender Email Marketing & SMS",
+        "rating": "4.8",
+        "reviews": 13,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Easy and affordable email marketing, automations and popups"
+      },
+      {
+        "name": "Kiliba",
+        "rating": "4.7",
+        "reviews": 8,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Fast, simple email marketing automation"
+      },
+      {
+        "name": "theMarketer: Email marketing",
+        "rating": "5.0",
+        "reviews": 12,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Drive sales with email marketing and loyalty programs"
+      },
+      {
+        "name": "Sailthru Marketing Automation",
+        "rating": "Free",
+        "reviews": 0,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Build deep relationships with email marketing automation"
+      },
+      {
+        "name": "NewsMAN Marketing Automation",
+        "rating": "2.2",
+        "reviews": 2,
+        "pricing": "From $5/month",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Smart email marketing automation & personalized newsletters"
+      },
+      {
+        "name": "Adflipr: Email Marketing",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "checkout",
+          "popup"
+        ],
+        "description": "Smarter Email Marketing Automation for Growing Brands"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "faq_question_answer": {
+    "apps": [
+      {
+        "name": "SB: Helpdesk, Live Chat & FAQs",
+        "rating": "4.6",
+        "reviews": 322,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Improve customer service with Helpcenter ticketing & AI FAQs"
+      },
+      {
+        "name": "HelpHub FAQ Page, Product FAQs",
+        "rating": "5.0",
+        "reviews": 214,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "chat",
+          "social"
+        ],
+        "description": "Create beautiful FAQ page, support page or product FAQs"
+      },
+      {
+        "name": "EasySlide Accordion tabs & FAQ",
+        "rating": "5.0",
+        "reviews": 167,
+        "pricing": "Free trial available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Accordion Product tabs and FAQ pages"
+      },
+      {
+        "name": "SMPS Product Question & Answer",
+        "rating": "4.8",
+        "reviews": 147,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Quickly respond product related queries for your online store."
+      },
+      {
+        "name": "StoreFAQ: Product FAQ Builder",
+        "rating": "4.9",
+        "reviews": 140,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "AI FAQ Page Builder with Schema, Product FAQs & Live Chat"
+      },
+      {
+        "name": "D: AI FAQ Page",
+        "rating": "4.5",
+        "reviews": 136,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty"
+        ],
+        "description": "Generate an SEO-optimized FAQ page with AI in just 30 seconds."
+      },
+      {
+        "name": "CBB Add To Cart Anywhere",
+        "rating": "4.9",
+        "reviews": 110,
+        "pricing": "Free trial available",
+        "features": [
+          "upsell"
+        ],
+        "description": "Make Add to Cart button click count for higher conversion"
+      },
+      {
+        "name": "Trusted Help Center & FAQ",
+        "rating": "5.0",
+        "reviews": 86,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "Add customizable FAQ or product FAQs with AI JSON-LD schema!"
+      },
+      {
+        "name": "BetterDocs FAQ Knowledge Base",
+        "rating": "4.9",
+        "reviews": 43,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Build FAQ & Documentation with AI & boost customer support"
+      },
+      {
+        "name": "Shopify Knowledge Base",
+        "rating": "3.5",
+        "reviews": 22,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "Customize FAQs used by AI agents to answer shopper questions"
+      },
+      {
+        "name": "AC \u2011 Questions & Answers",
+        "rating": "5.0",
+        "reviews": 27,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Showcase product questions and answers directly on product pag"
+      },
+      {
+        "name": "AnswerAI Chatbot & Live Chat",
+        "rating": "4.9",
+        "reviews": 19,
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI chatbot & live chat customer support to convert more sales"
+      },
+      {
+        "name": "FAQ Page:Accordion+Help Center",
+        "rating": "5.0",
+        "reviews": 16,
+        "pricing": "Free",
+        "features": [
+          "faq",
+          "chat"
+        ],
+        "description": "Easy FAQ app with help centre and helpdesk"
+      },
+      {
+        "name": "Enorm Ask a question",
+        "rating": "4.8",
+        "reviews": 15,
+        "pricing": "Free trial available",
+        "features": [
+          "faq"
+        ],
+        "description": "Let your Customers ask Questions and get Answers"
+      },
+      {
+        "name": "FAD Automatic Discount",
+        "rating": "5.0",
+        "reviews": 14,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "discounts",
+          "upsell",
+          "inventory",
+          "popup"
+        ],
+        "description": "Boost sales with automatic discount, volume, BOGO & Free Gift"
+      },
+      {
+        "name": "eFAQ: AI Questions & Answers",
+        "rating": "5.0",
+        "reviews": 3,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI-driven FAQs that reduce repetitive questions and save time"
+      },
+      {
+        "name": "FAQ Anywhere \u2011 BuildPrompt",
+        "rating": "5.0",
+        "reviews": 2,
+        "pricing": "Free trial available",
+        "features": [
+          "faq",
+          "chat"
+        ],
+        "description": "Display FAQs anywhere. Reduce tickets."
+      },
+      {
+        "name": "Aster",
+        "rating": "5.0",
+        "reviews": 2,
+        "pricing": "Free plan available",
+        "features": [],
+        "description": "A clear timeline of every change to your store and ads."
+      },
+      {
+        "name": "BS FAQs",
+        "rating": "5.0",
+        "reviews": 2,
+        "pricing": "Free",
+        "features": [
+          "faq",
+          "chat"
+        ],
+        "description": "Instant answers & easy FAQ setup to reduce support time."
+      },
+      {
+        "name": "Glu: GEO for AI Answers",
+        "rating": "",
+        "reviews": "",
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Make your store visible inside AI answers"
+      },
+      {
+        "name": "FAQ Star: FAQ Accordion",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free",
+        "features": [
+          "faq"
+        ],
+        "description": "Stop losing customers to confusion \u2013 give them answers instant"
+      },
+      {
+        "name": "ShopQA \u2011 Question And Answers",
+        "rating": "",
+        "reviews": "",
+        "pricing": "Free trial available",
+        "features": [],
+        "description": "Interact With Your Customers & Boost Traffic"
+      },
+      {
+        "name": "XB FAQs",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "blog",
+          "chat"
+        ],
+        "description": "Streamline support with multilingual FAQs and SEO optimization"
+      },
+      {
+        "name": "Easy FAQ",
+        "rating": "",
+        "reviews": "",
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "checkout"
+        ],
+        "description": "Add customizable FAQs across product, brand, and store pages."
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "instagram_social_media": {
+    "apps": [
+      {
+        "name": "Socialwidget \u2011 Instagram Feed",
+        "rating": "4.8",
+        "reviews": 524,
+        "pricing": "Free plan available",
+        "features": [
+          "social"
+        ],
+        "description": "Boost sales with shoppable TikTok & Instagram feeds"
+      },
+      {
+        "name": "Outfy \u2011 Social Media Auto Post",
+        "rating": "4.9",
+        "reviews": 494,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Auto-Create AI Videos, Promos & Auto-Post to Social Media"
+      },
+      {
+        "name": "Instafeed \u2011 Instagram Feed",
+        "rating": "4.9",
+        "reviews": 1840,
+        "pricing": "Free plan available",
+        "features": [
+          "reviews",
+          "social"
+        ],
+        "description": "Display Instagram feeds, Reels & Insta UGC as shoppable videos"
+      },
+      {
+        "name": "Dakaas Social Media Icons",
+        "rating": "4.9",
+        "reviews": 342,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social",
+          "checkout",
+          "popup"
+        ],
+        "description": "Boost trust with social sharing buttons and product share icon"
+      },
+      {
+        "name": "Instafeed for Instagram Feed",
+        "rating": "4.9",
+        "reviews": 366,
+        "pricing": "Free plan available",
+        "features": [
+          "blog",
+          "social"
+        ],
+        "description": "Instagram Feed + Stories with shoppable Insta Feed posts"
+      },
+      {
+        "name": "Xyla AI Social Media Autopilot",
+        "rating": "4.8",
+        "reviews": 191,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "social",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Boost sales by auto-posting AI-generated social media posts"
+      },
+      {
+        "name": "GSC Instagram Feed, Instafeed",
+        "rating": "4.9",
+        "reviews": 164,
+        "pricing": "Free",
+        "features": [
+          "reviews",
+          "social"
+        ],
+        "description": "Show Instagram feed on the store with a sleek instafeed widget"
+      },
+      {
+        "name": "Helpy Social Share Buttons",
+        "rating": "4.9",
+        "reviews": 142,
+        "pricing": "Free plan available",
+        "features": [
+          "reviews",
+          "wishlist",
+          "social",
+          "popup"
+        ],
+        "description": "Boost Your Social Proof with Facebook, Instagram and 60+ Icons"
+      },
+      {
+        "name": "VIBE Shoppable Instagram Feed",
+        "rating": "5.0",
+        "reviews": 52,
+        "pricing": "Free",
+        "features": [
+          "social"
+        ],
+        "description": "Boost sales with shoppable tagged Insta feed"
+      },
+      {
+        "name": "Square: Instagram Feed Gallery",
+        "rating": "5.0",
+        "reviews": 47,
+        "pricing": "Free",
+        "features": [
+          "social"
+        ],
+        "description": "Display your Instagram Feed as a Tagged Shoppable Gallery"
+      },
+      {
+        "name": "Social Bar: Social Media Icons",
+        "rating": "4.9",
+        "reviews": 41,
+        "pricing": "Free",
+        "features": [
+          "wishlist",
+          "social",
+          "popup"
+        ],
+        "description": "Social icons and share button to boost social media share"
+      },
+      {
+        "name": "B:Instagram Social Media Icons",
+        "rating": "4.7",
+        "reviews": 37,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist",
+          "social",
+          "popup"
+        ],
+        "description": "Social Bar: Follow Us on Instagram and Facebook social share"
+      },
+      {
+        "name": "Magik Social Media Auto Post",
+        "rating": "4.9",
+        "reviews": 36,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Automate social media marketing with your shop's data and AI"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "live_chat": {
+    "apps": [
+      {
+        "name": "Chatway Live Chat & AI Chatbot",
+        "rating": "4.9",
+        "reviews": 259,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "faq",
+          "chat"
+        ],
+        "description": "Provide Live chat support, FAQ, WhatsApp inbox & chat buttons"
+      },
+      {
+        "name": "VanChat AI Chatbot & Live Chat",
+        "rating": "5.0",
+        "reviews": 122,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI Chatbot for Sales: AI chat, live chat & 24/7 live support."
+      },
+      {
+        "name": "PX Live Chat & Support",
+        "rating": "1.0",
+        "reviews": 1,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "chat"
+        ],
+        "description": "Let customers contact your store via chat button instantly"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "reviews",
+      "seo",
+      "translate",
+      "upsell"
+    ]
+  },
+  "loyalty_rewards": {
+    "apps": [
+      {
+        "name": "Smile: Loyalty Program Rewards",
+        "rating": "4.9",
+        "reviews": 4268,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Customer loyalty points, VIP tiers, referrals, rewards program"
+      },
+      {
+        "name": "Joy Loyalty Program & Rewards",
+        "rating": "4.9",
+        "reviews": 1691,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Build loyalty program w/ rewards, points, VIP tier, referrals"
+      },
+      {
+        "name": "BON Loyalty Rewards Program",
+        "rating": "5.0",
+        "reviews": 1790,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Customer loyalty points & rewards program, VIP tier, referrals"
+      },
+      {
+        "name": "Rivo: Loyalty Program, Rewards",
+        "rating": "4.8",
+        "reviews": 1358,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Retain customers with loyalty, rewards, referrals & accounts"
+      },
+      {
+        "name": "Appstle Loyalty Reward Program",
+        "rating": "5.0",
+        "reviews": 1175,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Program loyalty with points, rewards, credits, referrals & VIP"
+      },
+      {
+        "name": "TrustWILL Loyalty & Referrals",
+        "rating": "4.9",
+        "reviews": 769,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Loyalty Rewards Program: Loyalty Points, Referral & VIP Tiers"
+      },
+      {
+        "name": "Casa Loyalty Program & Rewards",
+        "rating": "5.0",
+        "reviews": 315,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "email",
+          "loyalty"
+        ],
+        "description": "Vip Tiers,Rewards Program,Loyalty Points, Gift Cards,Referrals"
+      },
+      {
+        "name": "Loyoly \u2011 Loyalty and Referral",
+        "rating": "5.0",
+        "reviews": 117,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Loyalty, rewards and referrals to boost sales"
+      },
+      {
+        "name": "Redeemly Store Credit Cashback",
+        "rating": "4.9",
+        "reviews": 73,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Cash Back Loyalty Rewards Referrals With Native Store Credit"
+      },
+      {
+        "name": "Zing Loyalty Program & Rewards",
+        "rating": "5.0",
+        "reviews": 33,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Retain your customer loyalty with points and reward programs"
+      },
+      {
+        "name": "Poket Loyalty Rewards,Referral",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free trial available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "All-in-one Loyalty Reward App. Boost repeat sales effectively."
+      },
+      {
+        "name": "NUPI",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Increase repeat purchases with loyalty, rewards & referrals"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "discounts",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "reviews",
+      "seo",
+      "translate",
+      "upsell"
+    ]
+  },
+  "order_tracking_shipping": {
+    "apps": [
+      {
+        "name": "17TRACK Order Tracking",
+        "rating": "4.9",
+        "reviews": 3519,
+        "pricing": "Free plan available",
+        "features": [
+          "shipping"
+        ],
+        "description": "Simplify order management with smooth tracking and returns"
+      },
+      {
+        "name": "ParcelWILL Order Tracking",
+        "rating": "5.0",
+        "reviews": 2560,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "shipping",
+          "popup"
+        ],
+        "description": "Formerly Parcel Panel order tracker: track orders & boost CSAT"
+      },
+      {
+        "name": "Track123 Order Tracking",
+        "rating": "4.9",
+        "reviews": 1449,
+        "pricing": "Free plan available",
+        "features": [
+          "shipping",
+          "checkout"
+        ],
+        "description": "A beautiful order tracker with branded tracking & order lookup"
+      },
+      {
+        "name": "AfterShip Order Tracking",
+        "rating": "4.5",
+        "reviews": 1202,
+        "pricing": "Free to install",
+        "features": [
+          "shipping",
+          "checkout"
+        ],
+        "description": "Reduce WISMO with branded order tracking"
+      },
+      {
+        "name": "ShipX \u2011 Shipping Rates & Rules",
+        "rating": "5.0",
+        "reviews": 1196,
+        "pricing": "Free plan available",
+        "features": [
+          "shipping",
+          "loyalty",
+          "checkout"
+        ],
+        "description": "Shipping calculator with custom shipping rules & pickup points"
+      },
+      {
+        "name": "Tracktor Order Tracking",
+        "rating": "4.6",
+        "reviews": 142,
+        "pricing": "Free plan available",
+        "features": [
+          "shipping",
+          "checkout"
+        ],
+        "description": "Track orders with branded pages & custom statuses"
+      },
+      {
+        "name": "Synctrack AI Order Tracking",
+        "rating": "4.9",
+        "reviews": 75,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty"
+        ],
+        "description": "AI analytics order tracker, track order & order tracking page"
+      },
+      {
+        "name": "Trackr: Order Tracking UpSell",
+        "rating": "4.3",
+        "reviews": 44,
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "translate",
+          "discounts",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty",
+          "checkout",
+          "popup"
+        ],
+        "description": "Real-time tracking, order lookup, email notifications & upsell"
+      },
+      {
+        "name": "Easy Protection&Order Tracking",
+        "rating": "5.0",
+        "reviews": 33,
+        "pricing": "Free",
+        "features": [
+          "shipping",
+          "checkout"
+        ],
+        "description": "Shipping Protection, Insurance, Warranty & Order Tracker"
+      },
+      {
+        "name": "Parcelous Order Tracking",
+        "rating": "5.0",
+        "reviews": 19,
+        "pricing": "Free plan available",
+        "features": [
+          "shipping",
+          "checkout"
+        ],
+        "description": "Turn order tracking into revenue with a branded tracking page"
+      },
+      {
+        "name": "Avada Order Tracking",
+        "rating": "4.9",
+        "reviews": 10,
+        "pricing": "Free",
+        "features": [
+          "shipping",
+          "checkout"
+        ],
+        "description": "Smart order tracking with real-time status and delivery update"
+      },
+      {
+        "name": "iTrack \u2011 Order Tracking",
+        "rating": "4.8",
+        "reviews": 7,
+        "pricing": "Free plan available",
+        "features": [
+          "shipping"
+        ],
+        "description": "Custom order tracker and order lookup as you wish"
+      },
+      {
+        "name": "WhatFlow AI Chatbot & LiveChat",
+        "rating": "5.0",
+        "reviews": 3,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "discounts",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty",
+          "checkout"
+        ],
+        "description": "AI chatbot for support, sales, upsells, and order tracking"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "out_of_stock_alerts": {
+    "apps": [
+      {
+        "name": "Notify! Back in Stock|PreOrder",
+        "rating": "4.9",
+        "reviews": 3252,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty"
+        ],
+        "description": "The Notify Me! for pre order, waitlist, low stock & wish list"
+      },
+      {
+        "name": "Back In Stock,Notify Me: Kbite",
+        "rating": "5.0",
+        "reviews": 3641,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Back in Stock alert & Restock alert for Out-of-Stock Waitlists"
+      },
+      {
+        "name": "iAlert \u2011 Low Stock Alert",
+        "rating": "4.7",
+        "reviews": 82,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Send rules based low inventory alert via email, slack easily"
+      },
+      {
+        "name": "Notim: Back In Stock+Notify Me",
+        "rating": "4.9",
+        "reviews": 69,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist",
+          "inventory",
+          "social"
+        ],
+        "description": "Notify shoppers on restock and alert merchants on stockouts"
+      },
+      {
+        "name": "Back In Stock Alert\u2011 Notify Me",
+        "rating": "4.7",
+        "reviews": 201,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty"
+        ],
+        "description": "Out-of-stock waitlist, restock alerts & pre-order manager"
+      },
+      {
+        "name": "Sink | Push Down Out of Stock",
+        "rating": "5.0",
+        "reviews": 30,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Smartly push down sold out products and sort collections"
+      },
+      {
+        "name": "XFlow Back in Stock Alert",
+        "rating": "5.0",
+        "reviews": 30,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "email",
+          "wishlist",
+          "inventory",
+          "popup"
+        ],
+        "description": "Back in stock automation, restock alerts to recover lost sales"
+      },
+      {
+        "name": "Nada \u2022 Hide Out of Stock",
+        "rating": "4.9",
+        "reviews": 25,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "inventory",
+          "social"
+        ],
+        "description": "Hide out-of-stock & sold out products to increase conversions."
+      },
+      {
+        "name": "Back In Stock | Restock Alerts",
+        "rating": "5.0",
+        "reviews": 24,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Notify Me button + Email, SMS & WhatsApp restock alerts"
+      },
+      {
+        "name": "Out of Stock Sold Out PushLast",
+        "rating": "4.9",
+        "reviews": 16,
+        "pricing": "Free trial available",
+        "features": [
+          "translate",
+          "faq",
+          "upsell",
+          "wishlist",
+          "inventory",
+          "social"
+        ],
+        "description": "Move out of stock products to end of collections automatically"
+      },
+      {
+        "name": "Notify Me, Back in Stock: SW",
+        "rating": "4.8",
+        "reviews": 584,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "Back in stock alerts and waitlists for out of stock products"
+      },
+      {
+        "name": "StockIQ \u2011 Out\u2011of\u2011Stock Manager",
+        "rating": "4.8",
+        "reviews": 129,
+        "pricing": "Free to install",
+        "features": [
+          "wishlist",
+          "chat",
+          "inventory",
+          "shipping"
+        ],
+        "description": "Push down or hide sold-out items. Back in stock notifications."
+      },
+      {
+        "name": "Hide & Push Down Out of Stock",
+        "rating": "4.7",
+        "reviews": 13,
+        "pricing": "Free",
+        "features": [
+          "translate",
+          "faq",
+          "upsell",
+          "wishlist",
+          "inventory",
+          "shipping",
+          "social"
+        ],
+        "description": "Automatically hide or reorder out of stock products"
+      },
+      {
+        "name": "Pushy | Push Down Out Of Stock",
+        "rating": "5.0",
+        "reviews": 7,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "faq",
+          "upsell",
+          "wishlist",
+          "inventory",
+          "social"
+        ],
+        "description": "Auto push-down for sold-out products. Show in-stock first."
+      },
+      {
+        "name": "Blink | Hide out of stock",
+        "rating": "4.7",
+        "reviews": 65,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "faq",
+          "upsell",
+          "wishlist",
+          "blog",
+          "inventory",
+          "social"
+        ],
+        "description": "Hide sold out or publish in-stock products automatically"
+      },
+      {
+        "name": "Out Of Stock Alert Restock Lab",
+        "rating": "Free",
+        "reviews": 0,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Receive Low & Out-of-stock alerts via Slack, email & WhatsApp."
+      },
+      {
+        "name": "Back In Stock! Alert Engine",
+        "rating": "4.8",
+        "reviews": 19,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Notify me! with back in stock alert & Restock alert on Email"
+      },
+      {
+        "name": "Whatomation\u2011Order Notification",
+        "rating": "4.8",
+        "reviews": 210,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "email",
+          "reviews",
+          "chat",
+          "inventory",
+          "shipping"
+        ],
+        "description": "Send automated order notifications to your customers WhatsApp."
+      },
+      {
+        "name": "SC Back in Stock Notify Me",
+        "rating": "4.5",
+        "reviews": 170,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist",
+          "inventory"
+        ],
+        "description": "Back in stock & restock alert with notify me for out of stock"
+      },
+      {
+        "name": "Back in stock Restock Alert ZA",
+        "rating": "5.0",
+        "reviews": 147,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Recover sales with back in stock email alerts for customers"
+      },
+      {
+        "name": "Push Down Hide Out of Stock MB",
+        "rating": "4.8",
+        "reviews": 143,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "inventory"
+        ],
+        "description": "Push down sold out items & auto-hide & redirect 404 pages"
+      },
+      {
+        "name": "REZ Preorder, Back In Stock",
+        "rating": "5.0",
+        "reviews": 996,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty"
+        ],
+        "description": "Do pre order, notify me, back in stock alert, restock waitlist"
+      },
+      {
+        "name": "Stok: Back in Stock Pre Order",
+        "rating": "4.8",
+        "reviews": 114,
+        "pricing": "Free plan available",
+        "features": [
+          "inventory",
+          "shipping"
+        ],
+        "description": "Recover lost sales with back-in-stock & preorder alerts"
+      },
+      {
+        "name": "Back In Stock Alert Notify Pro",
+        "rating": "5.0",
+        "reviews": 4,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "inventory",
+          "social"
+        ],
+        "description": "Back in Stock alert & Restock alert with Future product Demand"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "payment_checkout": {
+    "apps": [
+      {
+        "name": "Kedra Checkout Rules",
+        "rating": "4.8",
+        "reviews": 531,
+        "pricing": "Free",
+        "features": [
+          "shipping",
+          "payment",
+          "checkout"
+        ],
+        "description": "Customize checkout, payment, shipping methods with smart rules"
+      },
+      {
+        "name": "SMART Checkout Rules & Upsells",
+        "rating": "5.0",
+        "reviews": 496,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "blog",
+          "payment",
+          "checkout"
+        ],
+        "description": "Checkout upsell app, rules & post purchase upsells to grow AOV"
+      },
+      {
+        "name": "MIDA Heatmap & Replay Checkout",
+        "rating": "4.9",
+        "reviews": 479,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI analytics, recordings & heatmaps to optimize conversions"
+      },
+      {
+        "name": "HidePay: Hide Payment Methods",
+        "rating": "4.8",
+        "reviews": 368,
+        "pricing": "Free plan available",
+        "features": [
+          "payment",
+          "checkout"
+        ],
+        "description": "Hide & customise all payment methods in your checkout"
+      },
+      {
+        "name": "Blockify Checkout Customizer",
+        "rating": "4.9",
+        "reviews": 275,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "payment",
+          "checkout",
+          "popup"
+        ],
+        "description": "Checkout rules, checkout customizer and discounts to boost AOV"
+      },
+      {
+        "name": "ETP Sort Hide Payment Methods",
+        "rating": "5.0",
+        "reviews": 280,
+        "pricing": "Free",
+        "features": [
+          "shipping",
+          "payment",
+          "checkout"
+        ],
+        "description": "Hide, sort, reorder, rename payment methods with payment rules"
+      },
+      {
+        "name": "Shopify Checkout Blocks",
+        "rating": "4.1",
+        "reviews": 188,
+        "pricing": "Free",
+        "features": [
+          "shipping",
+          "payment",
+          "checkout"
+        ],
+        "description": "Customize your Checkout, Thank you and Order status pages"
+      },
+      {
+        "name": "Kip: Sort Hide Payment Methods",
+        "rating": "4.9",
+        "reviews": 121,
+        "pricing": "Free plan available",
+        "features": [
+          "payment",
+          "checkout"
+        ],
+        "description": "Take full control of payment methods with Kip customizations."
+      },
+      {
+        "name": "SPD Split Payment & Deposit",
+        "rating": "4.9",
+        "reviews": 127,
+        "pricing": "Free plan available",
+        "features": [
+          "payment",
+          "checkout"
+        ],
+        "description": "Accept split/partial payments and deferred payments in store"
+      },
+      {
+        "name": "Checkout Rules & Discounts",
+        "rating": "5.0",
+        "reviews": 93,
+        "pricing": "Free plan available",
+        "features": [
+          "payment",
+          "checkout"
+        ],
+        "description": "Customize checkout rules to drive sales and reduce risk"
+      },
+      {
+        "name": "Scala Payment Method Discount",
+        "rating": "5.0",
+        "reviews": 57,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "discounts",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "payment",
+          "loyalty",
+          "checkout",
+          "popup"
+        ],
+        "description": "Offer payment method & prepaid discounts during checkout"
+      },
+      {
+        "name": "Yagi Express Payment Hider",
+        "rating": "5.0",
+        "reviews": 17,
+        "pricing": "Free trial available",
+        "features": [
+          "upsell",
+          "payment",
+          "checkout"
+        ],
+        "description": "Hide PayPal and other express checkout in checkout and cart"
+      },
+      {
+        "name": "Express Checkout",
+        "rating": "5.0",
+        "reviews": 6,
+        "pricing": "$5/month",
+        "features": [
+          "payment",
+          "checkout"
+        ],
+        "description": "Built for merchants in South Africa to optimise checkout"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "faq",
+      "inventory",
+      "loyalty",
+      "payment",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "translate",
+      "upsell"
+    ]
+  },
+  "popup_signup_form": {
+    "apps": [
+      {
+        "name": "SendWILL Popup Email Marketing",
+        "rating": "4.9",
+        "reviews": 7101,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Send newsletters and grow sign ups with email popup windows"
+      },
+      {
+        "name": "Releasit COD Form & Upsells",
+        "rating": "4.9",
+        "reviews": 2676,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "email",
+          "upsell",
+          "shipping",
+          "checkout",
+          "popup"
+        ],
+        "description": "Cash on Delivery Form for Dropshipping: Upsells, OTP, SMS"
+      },
+      {
+        "name": "Powerful Contact Form Builder",
+        "rating": "4.9",
+        "reviews": 2278,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "popup"
+        ],
+        "description": "Your all-in-one form app for custom forms, registration forms"
+      },
+      {
+        "name": "Hulk Contact Form Builder",
+        "rating": "4.8",
+        "reviews": 1841,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "popup"
+        ],
+        "description": "Easy contact us form, custom forms & survey with form builder"
+      },
+      {
+        "name": "EU Withdrawal Button & Form",
+        "rating": "4.9",
+        "reviews": 1024,
+        "pricing": "Free plan available",
+        "features": [],
+        "description": "Easily comply with EU withdrawal requirements 2023/2673"
+      },
+      {
+        "name": "Attrac Popup, Announcement Bar",
+        "rating": "5.0",
+        "reviews": 961,
+        "pricing": "Free plan available",
+        "features": [
+          "checkout",
+          "popup"
+        ],
+        "description": "Add bar, banner, pop up window, marquee header,countdown timer"
+      },
+      {
+        "name": "EasySell COD Form & Upsells",
+        "rating": "4.9",
+        "reviews": 879,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "email",
+          "upsell",
+          "shipping",
+          "checkout",
+          "popup"
+        ],
+        "description": "Cash on Delivery Form for Dropshipping with Upsells Offers OTP"
+      },
+      {
+        "name": "Shopify Forms",
+        "rating": "4.4",
+        "reviews": 659,
+        "pricing": "Free",
+        "features": [
+          "email",
+          "wishlist",
+          "popup"
+        ],
+        "description": "Capture customer information to grow your marketing list"
+      },
+      {
+        "name": "AVP \u2011 Age Verification Popup",
+        "rating": "4.7",
+        "reviews": 170,
+        "pricing": "Free plan available",
+        "features": [],
+        "description": "Easy age verification: 18+ pop-up for safe premium checks"
+      },
+      {
+        "name": "SureCust Forms Builder, Locks",
+        "rating": "4.9",
+        "reviews": 101,
+        "pricing": "Free",
+        "features": [
+          "email",
+          "popup"
+        ],
+        "description": "Build custom forms, wholesale registration & approve customers"
+      },
+      {
+        "name": "Formful \u2013 Contact Form Builder",
+        "rating": "4.6",
+        "reviews": 94,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "email",
+          "checkout",
+          "popup"
+        ],
+        "description": "Multi-language form builder with captcha and upload fields"
+      },
+      {
+        "name": "Seguno Popups & Forms",
+        "rating": "4.9",
+        "reviews": 61,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Easy SMS & email pop up forms with triggers like exit intent"
+      },
+      {
+        "name": "UpForm Contact Form & Popup",
+        "rating": "4.5",
+        "reviews": 9,
+        "pricing": "Free",
+        "features": [
+          "email",
+          "upsell",
+          "chat",
+          "shipping",
+          "checkout",
+          "popup"
+        ],
+        "description": "Design contact forms, popups, banners & notification bars"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "product_customizer": {
+    "apps": [
+      {
+        "name": "Easify Custom Product Options",
+        "rating": "4.9",
+        "reviews": 2727,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Add variant option w/ product personalizer, file upload, addon"
+      },
+      {
+        "name": "Zepto Product Personalizer",
+        "rating": "4.9",
+        "reviews": 1239,
+        "pricing": "Free trial available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Unlimited options with live preview to sell customized product"
+      },
+      {
+        "name": "Qikify Custom Product Options",
+        "rating": "4.9",
+        "reviews": 914,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "All-in-one product customizer for custom variant options"
+      },
+      {
+        "name": "Rebuy Personalization Engine",
+        "rating": "4.7",
+        "reviews": 824,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "discounts",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "payment",
+          "loyalty",
+          "checkout"
+        ],
+        "description": "AI recommendations: cart, checkout, and post-purchase upsells"
+      },
+      {
+        "name": "EasyFlow Product Options",
+        "rating": "4.9",
+        "reviews": 408,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Add unlimited product options & variants with easy customizer"
+      },
+      {
+        "name": "Teeinblue Product Personalizer",
+        "rating": "4.8",
+        "reviews": 332,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "AI product customizer built to scale customized businesses"
+      },
+      {
+        "name": "Customily Product Personalizer",
+        "rating": "4.7",
+        "reviews": 255,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "AI product customizer to sell personalized products at scale"
+      },
+      {
+        "name": "Mini:Custom Fields Personalize",
+        "rating": "4.9",
+        "reviews": 126,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "faq",
+          "upsell",
+          "wishlist",
+          "blog",
+          "social",
+          "checkout"
+        ],
+        "description": "Product customizer with custom field, textbox, upload images"
+      },
+      {
+        "name": "Fancy Product Designer",
+        "rating": "4.8",
+        "reviews": 46,
+        "pricing": "Free trial available",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "Intuitive product customizer & personalizer to boost margins"
+      },
+      {
+        "name": "Customall Product Personalizer",
+        "rating": "4.8",
+        "reviews": 34,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "inventory",
+          "social"
+        ],
+        "description": "Product customizer with live preview for Print On Demand"
+      },
+      {
+        "name": "Customix Product Personalizer",
+        "rating": "4.8",
+        "reviews": 31,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social",
+          "checkout"
+        ],
+        "description": "Easy product customization with live preview & print files"
+      },
+      {
+        "name": "Custlo \u2011 Customer accounts app",
+        "rating": "4.8",
+        "reviews": 82,
+        "pricing": "Free trial available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI-powered customer accounts with Profile & Dashboard Features"
+      },
+      {
+        "name": "Customthings \u2011 Personalizer",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI-powered and flexible design, and seamless to xTool"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "payment",
+      "reviews",
+      "seo",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "product_reviews": {
+    "apps": [
+      {
+        "name": "Trustyy Product Reviews App",
+        "rating": "4.8",
+        "reviews": 27,
+        "pricing": "Free to install",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social",
+          "checkout"
+        ],
+        "description": "Boost trust with verified product reviews & ratings"
+      },
+      {
+        "name": "Judge.me Product Reviews App",
+        "rating": "5.0",
+        "reviews": 40478,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Collect unlimited product reviews, star ratings, testimonials"
+      },
+      {
+        "name": "Stamped Reviews & Loyalty",
+        "rating": "4.7",
+        "reviews": 3616,
+        "pricing": "From $23/month",
+        "features": [
+          "reviews",
+          "checkout"
+        ],
+        "description": "Build trust, drive acquisition and sales with customer reviews"
+      },
+      {
+        "name": "AliReviews: AliExpress Reviews",
+        "rating": "4.3",
+        "reviews": 64,
+        "pricing": "Free plan available",
+        "features": [
+          "reviews",
+          "payment",
+          "checkout"
+        ],
+        "description": "Ali Reviews is a 1-click Amazon & AliExpress review importer"
+      },
+      {
+        "name": "Quoli Product Reviews & UGC",
+        "rating": "4.8",
+        "reviews": 42,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Product reviews app with photos, videos, questions, and UGC."
+      },
+      {
+        "name": "Loox \u2011 Product Reviews App",
+        "rating": "4.9",
+        "reviews": 8096,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "social",
+          "loyalty"
+        ],
+        "description": "Convert more with visual product reviews, superpowered by AI"
+      },
+      {
+        "name": "Certishopping",
+        "rating": "4.4",
+        "reviews": 6,
+        "pricing": "Free plan available",
+        "features": [
+          "reviews",
+          "checkout"
+        ],
+        "description": "Gather genuine reviews and elevate your brand's credibility"
+      },
+      {
+        "name": "AG Product Reviews App & UGC",
+        "rating": "5.0",
+        "reviews": 2896,
+        "pricing": "Free",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social",
+          "checkout"
+        ],
+        "description": "Build trust w/ unlimited product reviews, photos, testimonials"
+      },
+      {
+        "name": "Product Reviews & Ratings",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Collect and display product reviews with star ratings."
+      },
+      {
+        "name": "Review Rocket Product Reviews",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Unlimited Free Product Reviews & Ratings. Photo, Video reviews"
+      },
+      {
+        "name": "RightReviews",
+        "rating": "5.0",
+        "reviews": 1,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Collect, import, and manage product reviews from one app"
+      },
+      {
+        "name": "Revio",
+        "rating": "Free",
+        "reviews": 0,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Product reviews & ratings for your store"
+      },
+      {
+        "name": "AC \u2011 Reviews & Ratings",
+        "rating": "Free",
+        "reviews": 0,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Product Reviews & Ratings with Media"
+      },
+      {
+        "name": "Aura Product Reviews App",
+        "rating": "5.0",
+        "reviews": 2,
+        "pricing": "Free plan available",
+        "features": [
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "social"
+        ],
+        "description": "Increase Conversions with Product Reviews, Ratings, and Q&A"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "faq",
+      "inventory",
+      "loyalty",
+      "payment",
+      "reviews",
+      "seo",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "seo_optimization": {
+    "apps": [
+      {
+        "name": "Avada AI SEO Image Optimizer",
+        "rating": "4.9",
+        "reviews": 4455,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Win sales via AI SEO Audit Agent, Checklist & onpage optimizer"
+      },
+      {
+        "name": "BOOSTER AI SEO OPTIMIZER",
+        "rating": "4.8",
+        "reviews": 4276,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "checkout"
+        ],
+        "description": "The trusted AI SEO app for speed, sharp images, higher ranks"
+      },
+      {
+        "name": "Tapita AI SEO Optimizer, Speed",
+        "rating": "5.0",
+        "reviews": 2539,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Boost traffic & sales with SEO booster, AI SEO image and speed"
+      },
+      {
+        "name": "Tiny SEO Speed Image Optimizer",
+        "rating": "5.0",
+        "reviews": 2319,
+        "pricing": "Free to install",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Boost SEO traffic, AEO/AI search, page speed & minify images!\u2191"
+      },
+      {
+        "name": "SEOLab: All in #1 SEO \u2014 AI SEO",
+        "rating": "4.9",
+        "reviews": 2079,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "AI SEO Optimizer, AEO, Alt Text, Image Optimizer & Speed Boost"
+      },
+      {
+        "name": "Webrex:AI SEO Optimizer Schema",
+        "rating": "4.8",
+        "reviews": 565,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Complete AI SEO platform: schema, JSON-LD, audit & content"
+      },
+      {
+        "name": "SEO Image Optimizer Wizard",
+        "rating": "4.8",
+        "reviews": 627,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "faq",
+          "blog"
+        ],
+        "description": "Get SEO Image Optimizer & Improve site speed & SEO in 1-click."
+      },
+      {
+        "name": "Avada AEO optimizer LLMs.txt",
+        "rating": "5.0",
+        "reviews": 383,
+        "pricing": "Free",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty"
+        ],
+        "description": "Improve AI SEO, AEO visibility with LLMs.txt for ChatGPT"
+      },
+      {
+        "name": "Webrex: SEO Audit Optimizer",
+        "rating": "4.8",
+        "reviews": 206,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "faq",
+          "blog"
+        ],
+        "description": "Optimize your store seo with advanced technical audits"
+      },
+      {
+        "name": "Webrex: SEO Image Optimizer",
+        "rating": "4.9",
+        "reviews": 141,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "blog",
+          "inventory"
+        ],
+        "description": "Auto-optimize images, boost speed, and skyrocket SEO"
+      },
+      {
+        "name": "Meta & Facebook Pixels by Nabu",
+        "rating": "4.9",
+        "reviews": 116,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "shipping",
+          "social"
+        ],
+        "description": "Accurate Meta Pixel tracking to improve your Facebook Ads"
+      },
+      {
+        "name": "WEBP Image Optimizer+Speed SEO",
+        "rating": "4.5",
+        "reviews": 9,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "faq",
+          "blog"
+        ],
+        "description": "Bulk Compress Optimize Images for SEO. Edit AltText & Filename"
+      },
+      {
+        "name": "AEO: AI SEO optimizer LLMs.txt",
+        "rating": "4.7",
+        "reviews": 13,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "shipping",
+          "loyalty"
+        ],
+        "description": "Generate and customize LLMs.txt - improve AI search visibility"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "upsell_cross_sell": {
+    "apps": [
+      {
+        "name": "Essential Upsell & Cross Sell",
+        "rating": "5.0",
+        "reviews": 2173,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Lift AOV with Frequently Bought Together Upsell and Cross-sell"
+      },
+      {
+        "name": "Upsell & Cross Sell \u2014 Selleasy",
+        "rating": "4.9",
+        "reviews": 2410,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Frequently bought together bundles & in cart upsell, boost AOV"
+      },
+      {
+        "name": "Wiser AI \u2011 Upsell & Cross Sell",
+        "rating": "4.9",
+        "reviews": 530,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Increase AOV by Frequently Bought Together Upsell & Cross Sell"
+      },
+      {
+        "name": "Qikify Upsell & Cross\u2011sell",
+        "rating": "4.8",
+        "reviews": 627,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Upsell & cross-sell with Frequently Bought Together, BOGO"
+      },
+      {
+        "name": "Upsell.com \u2011 ReConvert Upsell",
+        "rating": "4.8",
+        "reviews": 2836,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "blog",
+          "checkout"
+        ],
+        "description": "Create Cart Upsell & Cross Sell + Post Purchase Upsell Funnels"
+      },
+      {
+        "name": "Dakaas AOV Upsell & Cross Sell",
+        "rating": "5.0",
+        "reviews": 38,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout",
+          "popup"
+        ],
+        "description": "Boost AOV with Bundles, Upsells, Volume discounts, BOGO Deals"
+      },
+      {
+        "name": "Startstorez Upsell Cross Sell",
+        "rating": "5.0",
+        "reviews": 18,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Create upsells, bundles, and add-ons across your store."
+      },
+      {
+        "name": "ICU\u2022 In Cart Upsell Cross Sell",
+        "rating": "4.8",
+        "reviews": 562,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "blog",
+          "checkout"
+        ],
+        "description": "Boost AOV w/ In Cart Upsell, Cross-Sell & Post Purchase Upsell"
+      },
+      {
+        "name": "AS Upsell & Cross\u2011Sell App",
+        "rating": "5.0",
+        "reviews": 12,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "checkout"
+        ],
+        "description": "Lift AOV with cart upsell, product page upsell, quantity break"
+      },
+      {
+        "name": "Bold AI Upsell & Cross\u2011Sell",
+        "rating": "4.4",
+        "reviews": 582,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "upsell",
+          "blog",
+          "payment",
+          "checkout"
+        ],
+        "description": "Boost AOV w/ Checkout Upsells and Post Purchase Upsell Funnels"
+      },
+      {
+        "name": "Upsell & Cross\u2011Sell SmartFlow",
+        "rating": "5.0",
+        "reviews": 23,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "blog",
+          "checkout"
+        ],
+        "description": "Boost post-purchase engagement with custom upsells."
+      },
+      {
+        "name": "Magic Upsell & Cross Sell",
+        "rating": "4.7",
+        "reviews": 19,
+        "pricing": "Free",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Boost sales with one-click Magic cross sell & upsell bundles"
+      },
+      {
+        "name": "BA Popup Upsell & Cross Sell",
+        "rating": "5.0",
+        "reviews": 20,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "email",
+          "faq",
+          "upsell",
+          "wishlist",
+          "social",
+          "checkout",
+          "popup"
+        ],
+        "description": "Sell more with product upsell pop up, discount & AOV popup"
+      },
+      {
+        "name": "Upsell, Cross sell & Bundles",
+        "rating": "4.7",
+        "reviews": 474,
+        "pricing": "Free plan available",
+        "features": [
+          "translate",
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Cross Sell, Upsell and Bundles Across 8 High-Impact Locations"
+      },
+      {
+        "name": "Honeycomb Upsell & Cross Sell",
+        "rating": "4.7",
+        "reviews": 152,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Boost your sales with one-click upsell & cross sell funnels"
+      },
+      {
+        "name": "Essent FreeShipping Upsell App",
+        "rating": "5.0",
+        "reviews": 853,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "shipping",
+          "checkout"
+        ],
+        "description": "Lift AOV via Free Shipping Bar Goal Cart Upsell and Cross Sell"
+      },
+      {
+        "name": "VOL \u2013 Upsell & Cross Sell",
+        "rating": "5.0",
+        "reviews": 5,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Increase AOV with one-click upsells, cross-sells and bundles"
+      },
+      {
+        "name": "Squirrel Upsell & Cross Sell",
+        "rating": "4.9",
+        "reviews": 10,
+        "pricing": "Free",
+        "features": [
+          "faq",
+          "upsell",
+          "wishlist",
+          "social"
+        ],
+        "description": "For 1k+ SKUs: rules by any product attribute (bulk matching)"
+      },
+      {
+        "name": "Candy Rack \u2022 All\u2011in\u2011One Upsell",
+        "rating": "4.9",
+        "reviews": 196,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "discounts",
+          "faq",
+          "upsell",
+          "reviews",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "checkout"
+        ],
+        "description": "AI-powered upsell & cross-sell app with built-in cart drawer."
+      },
+      {
+        "name": "Searchanise Upsell Cross\u2011sell",
+        "rating": "5.0",
+        "reviews": 18,
+        "pricing": "Free to install",
+        "features": [
+          "discounts",
+          "email",
+          "upsell",
+          "checkout"
+        ],
+        "description": "Boost your sales with the all-in-one upsell and marketing app"
+      },
+      {
+        "name": "Monk Free Gift BOGO CartUpsell",
+        "rating": "4.9",
+        "reviews": 550,
+        "pricing": "Free trial available",
+        "features": [
+          "discounts",
+          "upsell",
+          "payment",
+          "checkout"
+        ],
+        "description": "Free gift with purchase, BOGO & checkout upsells to boost AOV"
+      },
+      {
+        "name": "Ego Cart Drawer Cart Upsell",
+        "rating": "4.9",
+        "reviews": 543,
+        "pricing": "Free plan available",
+        "features": [
+          "discounts",
+          "upsell",
+          "loyalty"
+        ],
+        "description": "Boost Sales w Slide cart drawer, Rewards bar, Free Gifts, etc"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "checkout",
+      "discounts",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "payment",
+      "popup",
+      "reviews",
+      "seo",
+      "shipping",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  },
+  "wishlist": {
+    "apps": [
+      {
+        "name": "Wishlist by Square",
+        "rating": "5.0",
+        "reviews": 77,
+        "pricing": "Free",
+        "features": [
+          "wishlist",
+          "social"
+        ],
+        "description": "Boost sales by letting shoppers save and buy favorites later"
+      },
+      {
+        "name": "Swish (Wishlist King)",
+        "rating": "5.0",
+        "reviews": 290,
+        "pricing": "Free trial available",
+        "features": [
+          "wishlist"
+        ],
+        "description": "Drive revenue & delight customers with a customised Wishlist."
+      },
+      {
+        "name": "Growave: Loyalty & Wishlist",
+        "rating": "4.8",
+        "reviews": 1228,
+        "pricing": "Free plan available",
+        "features": [
+          "email",
+          "reviews",
+          "wishlist",
+          "loyalty",
+          "popup"
+        ],
+        "description": "All-in-one retention platform with Loyalty, Reviews, Wishlist"
+      },
+      {
+        "name": "Wishlist Hero",
+        "rating": "4.7",
+        "reviews": 387,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "translate",
+          "email",
+          "faq",
+          "upsell",
+          "reviews",
+          "wishlist",
+          "blog",
+          "chat",
+          "inventory",
+          "loyalty",
+          "popup"
+        ],
+        "description": "Grow Sales with a customizable Wishlist & Email reminders"
+      },
+      {
+        "name": "Swym Wishlist Plus",
+        "rating": "4.7",
+        "reviews": 1423,
+        "pricing": "Free trial available",
+        "features": [
+          "wishlist"
+        ],
+        "description": "Increase your store conversions with a full featured wishlist"
+      },
+      {
+        "name": "SE Wishlist Engine",
+        "rating": "4.9",
+        "reviews": 269,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist",
+          "inventory"
+        ],
+        "description": "Grow sales with wishlist: save, share, re-stock alerts & more."
+      },
+      {
+        "name": "Wishlist Power",
+        "rating": "5.0",
+        "reviews": 36,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist"
+        ],
+        "description": "Easy to set up wishlist that adapts to the most popular themes"
+      },
+      {
+        "name": "XB Wishlist",
+        "rating": "4.7",
+        "reviews": 49,
+        "pricing": "Free plan available",
+        "features": [
+          "seo",
+          "wishlist",
+          "blog",
+          "inventory"
+        ],
+        "description": "Wishlist tools for guest saves, alerts, analytics, and POS"
+      },
+      {
+        "name": "WC Wishlist & Back in Stock",
+        "rating": "4.9",
+        "reviews": 173,
+        "pricing": "Free trial available",
+        "features": [
+          "wishlist",
+          "inventory"
+        ],
+        "description": "Wishlist alerts, Restock & Back in Stock alerts to boost sales"
+      },
+      {
+        "name": "Hulk AI Wishlist & Favorites",
+        "rating": "4.7",
+        "reviews": 131,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist",
+          "inventory"
+        ],
+        "description": "Grow sales with share wishlists, guest wishlist, restock alert"
+      },
+      {
+        "name": "Froonze VIP Loyalty & Wishlist",
+        "rating": "4.9",
+        "reviews": 257,
+        "pricing": "Free to install",
+        "features": [
+          "email",
+          "loyalty"
+        ],
+        "description": "Grow w/ loyalty program, rewards, cashback, customer account"
+      },
+      {
+        "name": "Wysh \u2011 Wishlist & POS",
+        "rating": "5.0",
+        "reviews": 5,
+        "pricing": "Free plan available",
+        "features": [
+          "wishlist",
+          "social"
+        ],
+        "description": "Unlimited wishlists that bring shoppers back to buy"
+      },
+      {
+        "name": "Wishlist Monk",
+        "rating": "5.0",
+        "reviews": 9,
+        "pricing": "Free",
+        "features": [
+          "email",
+          "wishlist",
+          "popup"
+        ],
+        "description": "Transform intent into revenue with personalised wishlists"
+      }
+    ],
+    "features": [
+      "blog",
+      "chat",
+      "email",
+      "faq",
+      "inventory",
+      "loyalty",
+      "popup",
+      "reviews",
+      "seo",
+      "social",
+      "translate",
+      "upsell",
+      "wishlist"
+    ]
+  }
+}
